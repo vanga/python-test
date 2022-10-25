@@ -20,7 +20,7 @@ classifiers = [
     "Programming Language :: Python :: 3.10"
 ]
 requires-python = ">=3.7"
-dynamic = ["version"]
+__version__ = "0.0.1"
 
 [project.optional-dependencies]
 spark = [
