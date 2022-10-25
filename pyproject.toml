@@ -21,7 +21,12 @@ classifiers = [
     "Programming Language :: Python :: 3.10"
 ]
 requires-python = ">=3.7"
-
+dependencies = [
+    "scipy",
+    "pandas",
+    "numpy",
+    "sklearn"
+]
 
 [project.optional-dependencies]
 spark = [
