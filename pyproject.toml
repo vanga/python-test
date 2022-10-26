@@ -3,7 +3,7 @@ requires = ["flit"]
 build-backend = "flit.buildapi"
 
 [project]
-name =  "py-project-toml"
+name =  "vangap-meliora"
 version = "0.0.1"
 authors = [
     {name = "Daniel Ciborowski", email = "dciborow@microsoft.com"},
