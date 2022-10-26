@@ -13,8 +13,8 @@ jobs:
     steps:
     - uses: microsoft/action-python/.github/workflows/validation.yml@0.2.0
     - uses: actions/setup-python@v4
-        with:
-          python-version: "3.9"    
+      with:
+        python-version: "3.9"    
 
   publish:
     uses: microsoft/action-python/.github/workflows/publish.yml@0.2.0
