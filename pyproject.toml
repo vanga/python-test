@@ -4,7 +4,7 @@ build-backend = "flit.buildapi"
 
 [project]
 name =  "vangap-meliora"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
     {name = "Daniel Ciborowski", email = "dciborow@microsoft.com"},
 ]
