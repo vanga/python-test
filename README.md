@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/vangap-meliora.svg)](https://badge.fury.io/py/vangap-meliora)
+
 # Python Project Template
 
 This project follows the Python Standards declared in [PEP 621](https://peps.python.org/pep-0621/).
